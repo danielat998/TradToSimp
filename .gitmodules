@@ -1,0 +1,3 @@
+[submodule "DictionaryHandler"]
+	path = DictionaryHandler
+	url = https://github.com/danielat998/DictionaryHandler
