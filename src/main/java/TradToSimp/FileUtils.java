@@ -1,4 +1,4 @@
-package HanziToAnki;
+package TradToSimp;
 
 import java.nio.charset.Charset;
 import java.nio.file.Files;
