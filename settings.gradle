@@ -1,1 +1,3 @@
-includeFlat 'DictionaryHandler'
+//includeFlat "DictionaryHandler"
+include ":DictionaryHandler"
+project(":DictionaryHandler").projectDir = new File("./DictionaryHandler")
