@@ -25,3 +25,21 @@ hs_err_pid*
 #gradle stuff
 build/**
 .gradle/**
+
+
+#craploads of vim stuff - credit to https://github.com/github/gitignore/tree/master/Global
+
+Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
